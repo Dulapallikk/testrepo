@@ -5,7 +5,7 @@
   <title>Internet Technologies and Web Design</title>
 </head>
 <body>
-  <p>&amp; Hello world. This is my first website!</p>
+  <p> Hello world. This is my first website!</p>
   <p>Personal Information</p>
   <p>Name : DULAPALLI KIRAN KUMAR.<p>
   <p>From : Indian<p>
